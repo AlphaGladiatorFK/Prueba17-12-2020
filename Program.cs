@@ -8,10 +8,6 @@ namespace ConsoleApp11
         {
             Console.WriteLine("Hello World!");
 
-            //Cambio 1
-
-            //Cambio 2
-
         }
     }
 }
